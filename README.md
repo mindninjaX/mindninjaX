@@ -8,9 +8,6 @@
 - 🥅 2020 Goals: Dig deeper into learning advance topics
 - ⚡ Fun fact: I prefer X-Men over Avengers!
 
-### Spotify Playing 🎧
-[<img src="https://novatorem-qjxpok88u.vercel.app/api/spotify-playing" alt="mindninjaX Spotify Playing" width="350" />](https://open.spotify.com/user/vheaiccssxk6qugij275i21ec)
-
 ### Connect with me:
 
 [<img align="left" alt="bit.ly/rishabh-singh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
