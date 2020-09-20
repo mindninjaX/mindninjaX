@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I prefer X-Men over Avengers!
 
 ### Spotify Playing 🎧
-[<img src="novatorem-brown-six.vercel.app/api/spotify" alt="mindninjaX Spotify Playing" width="350" />](https://open.spotify.com/user/vheaiccssxk6qugij275i21ec)
+[![Spotify](novatorem-brown-six.vercel.app/api/spotify)](https://open.spotify.com/user/vheaiccssxk6qugij275i21ec)
 
 ### Connect with me:
 
