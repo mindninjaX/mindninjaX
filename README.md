@@ -1,10 +1,10 @@
-### Hi there, I'm Rishabh - aka [mindninjaX][https://bit.ly/rishabh-singh] 👋
+### Hi there, I'm Rishabh - aka [mindninjaX](https://bit.ly/rishabh-singh) 👋
 
 ## I'm a Programmer, Graphic Designer & an IT Student!
 
 - 🔭 I’m [Microsoft Learn Student Ambassador][https://studentambassadors.microsoft.com/en-US/profile/62034]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m the Founder & President of [Developer's Club][https://bit.ly/student-developers-club]
+- 👯 I’m the Founder & President of [Developer's Club](https://bit.ly/student-developers-club)
 - 🥅 2020 Goals: Dig deeper into learning advance topics
 - ⚡ Fun fact: I prefer X-Men over Avengers!
 
@@ -50,7 +50,6 @@
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
 
----
 
 
 [website]: https://bit.ly/rishabh-singh
