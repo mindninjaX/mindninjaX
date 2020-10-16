@@ -39,7 +39,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [✨Hacktoberfest Guide for Beginners 👕](https://dev.to/mindninjax/hacktoberfest-guide-for-beginners-3dp6)
+- [Hacktoberfest Guide for Beginners](https://dev.to/mindninjax/hacktoberfest-guide-for-beginners-3dp6)
 - [Productivity Guide for Programmers](https://dev.to/mindninjax/wellness-guide-for-programmers-1aam)
 - [Ethereum: Explained in the easiest way possible](https://dev.to/mindninjax/ethereum-explained-in-the-easiest-way-possible-1flp)
 - [Blockchain: Explained in easiest way possible](https://dev.to/mindninjax/blockchain-explained-in-easiest-way-possible-4j5c)
