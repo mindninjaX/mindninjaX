@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 worst misconceptions people have about programmers](https://dev.to/mindninjax/5-worst-misconceptions-people-have-about-programmers-2j58)
 - [Hacktoberfest Guide for Beginners](https://dev.to/mindninjax/hacktoberfest-guide-for-beginners-3dp6)
 - [Productivity Guide for Programmers](https://dev.to/mindninjax/wellness-guide-for-programmers-1aam)
 - [Ethereum: Explained in the easiest way possible](https://dev.to/mindninjax/ethereum-explained-in-the-easiest-way-possible-1flp)
 - [Blockchain: Explained in easiest way possible](https://dev.to/mindninjax/blockchain-explained-in-easiest-way-possible-4j5c)
-- [How to explain Machine Learning to your Granny](https://dev.to/mindninjax/how-to-explain-machine-learning-to-your-granny-364o)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
