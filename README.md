@@ -40,7 +40,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [What kind of developer are you?](https://dev.to/mindninjax/frontend-backend-or-full-stack-which-one-you-love-most-364p)
-- [5 Podcasts every Dev must listen](https://dev.to/mindninjax/top-5-podcasts-every-dev-should-start-listening-1cmd)
+- [5 Podcasts every Dev must listen to](https://dev.to/mindninjax/top-5-podcasts-every-dev-should-start-listening-1cmd)
 - [5 worst misconceptions people have about programmers](https://dev.to/mindninjax/5-worst-misconceptions-people-have-about-programmers-2j58)
 - [Hacktoberfest Guide for Beginners](https://dev.to/mindninjax/hacktoberfest-guide-for-beginners-3dp6)
 - [Wellness Guide for Programmers](https://dev.to/mindninjax/wellness-guide-for-programmers-1aam)
