@@ -42,7 +42,7 @@
 - [5 Podcasts every Dev must listen](https://dev.to/mindninjax/top-5-podcasts-every-dev-should-start-listening-1cmd)
 - [5 worst misconceptions people have about programmers](https://dev.to/mindninjax/5-worst-misconceptions-people-have-about-programmers-2j58)
 - [Hacktoberfest Guide for Beginners](https://dev.to/mindninjax/hacktoberfest-guide-for-beginners-3dp6)
-- [Productivity Guide for Programmers](https://dev.to/mindninjax/wellness-guide-for-programmers-1aam)
+- [Wellness Guide for Programmers](https://dev.to/mindninjax/wellness-guide-for-programmers-1aam)
 - [Ethereum: Explained in the easiest way possible](https://dev.to/mindninjax/ethereum-explained-in-the-easiest-way-possible-1flp)
 <!-- BLOG-POST-LIST:END -->
 
