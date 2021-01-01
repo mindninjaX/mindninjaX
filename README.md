@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 Websites to visit in your Lunchtime | Part 2 of 4](https://dev.to/mindninjax/5-websites-to-visit-in-your-lunchtime-part-2-of-4-1dk2)
 - [Do you listen to music while coding?](https://dev.to/mindninjax/do-you-listen-to-music-while-coding-29f0)
 - [5 Websites to visit in your Lunchtime | Part 1 of 4](https://dev.to/mindninjax/5-websites-to-visit-in-your-lunchtime-part-1-of-4-3o6b)
 - [What kind of developer are you?](https://dev.to/mindninjax/frontend-backend-or-full-stack-which-one-you-love-most-364p)
 - [5 Podcasts every Dev must listen to](https://dev.to/mindninjax/top-5-podcasts-every-dev-should-start-listening-1cmd)
-- [5 worst misconceptions people have about programmers](https://dev.to/mindninjax/5-worst-misconceptions-people-have-about-programmers-2j58)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
