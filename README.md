@@ -39,11 +39,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you live without Undo & Redo?](https://dev.to/mindninjax/can-you-live-without-undo-redo-1457)
 - [4 Websites to visit in your Lunchtime | Part 4 of 4](https://dev.to/mindninjax/4-websites-to-visit-in-your-lunchtime-part-4-of-4-3p45)
 - [5 Websites to visit in your Lunchtime | Part 3 of 4](https://dev.to/mindninjax/5-websites-to-visit-in-your-lunchtime-part-3-of-4-59op)
 - [5 Websites to visit in your Lunchtime | Part 2 of 4](https://dev.to/mindninjax/5-websites-to-visit-in-your-lunchtime-part-2-of-4-1dk2)
 - [Do you listen to music while coding?](https://dev.to/mindninjax/do-you-listen-to-music-while-coding-29f0)
-- [5 Websites to visit in your Lunchtime | Part 1 of 4](https://dev.to/mindninjax/5-websites-to-visit-in-your-lunchtime-part-1-of-4-3o6b)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
