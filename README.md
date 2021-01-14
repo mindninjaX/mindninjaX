@@ -1,18 +1,13 @@
 ### Hi there, I'm Rishabh - aka [mindninjaX](https://bit.ly/rishabh-singh) 👋
 
-## I'm a Programmer, Graphic Designer & an IT Student!
+## I'm a Community Leader, Blogger, Programmer & a Designer
 
 - 🔭 I’m [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/62034)!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m the Founder & President of [Developer's Club](https://bit.ly/student-developers-club)
+- 👨‍💻 I’m the Founder & President of [Developer's Club](https://bit.ly/student-developers-club)
 - 🥅 2020 Goals: Dig deeper into learning advance topics
-- ⚡ Fun fact: I prefer X-Men over Avengers!
+- ⚡ Fun fact: Binod!
 
-### Connect with me:
-
-[<img align="left" alt="bit.ly/rishabh-singh" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mindninjaX | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mindninjaX | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -39,17 +34,29 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it time we quit WhatsApp?](https://dev.to/mindninjax/is-it-time-we-quit-whatsapp-4f91)
-- [Can you live without Undo & Redo?](https://dev.to/mindninjax/can-you-live-without-undo-redo-1457)
-- [4 Websites to visit in your Lunchtime | Part 4 of 4](https://dev.to/mindninjax/4-websites-to-visit-in-your-lunchtime-part-4-of-4-3p45)
-- [5 Websites to visit in your Lunchtime | Part 3 of 4](https://dev.to/mindninjax/5-websites-to-visit-in-your-lunchtime-part-3-of-4-59op)
-- [5 Websites to visit in your Lunchtime | Part 2 of 4](https://dev.to/mindninjax/5-websites-to-visit-in-your-lunchtime-part-2-of-4-1dk2)
+- [📵 Is it time we quit WhatsApp?](https://dev.to/mindninjax/is-it-time-we-quit-whatsapp-4f91)
+- [😫 Can you live without Undo & Redo?](https://dev.to/mindninjax/can-you-live-without-undo-redo-1457)
+- [💻 4 Websites to visit in your Lunchtime | Part 4 of 4](https://dev.to/mindninjax/4-websites-to-visit-in-your-lunchtime-part-4-of-4-3p45)
+- [💻 5 Websites to visit in your Lunchtime | Part 3 of 4](https://dev.to/mindninjax/5-websites-to-visit-in-your-lunchtime-part-3-of-4-59op)
+- [💻 5 Websites to visit in your Lunchtime | Part 2 of 4](https://dev.to/mindninjax/5-websites-to-visit-in-your-lunchtime-part-2-of-4-1dk2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
 
+---
+## Github Stats
+
+![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=mindninjaX&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindninjaX&layout=compact&theme=radical)
 
 
-[website]: https://bit.ly/rishabh-singh
-[twitter]: https://twitter.com/mindninjaX
-[linkedin]: https://linkedin.com/in/mindninjax
+---
+
+### 🔗 Connect with me:
+
+[<img align="left" alt="surajsrv11 | DEV" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />](https://dev.to/mindninjaX)
+[<img align="left" alt="mindninjaX | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mindninjaX)
+[<img align="left" alt="mindninjaX | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mindninjax/)
