@@ -34,11 +34,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is the best routine for a Dev?](https://dev.to/mindninjax/what-is-the-best-routine-for-a-dev-23o2)
 - [Which are the best platforms to learn your next programming language?](https://dev.to/mindninjax/which-are-the-best-platforms-to-learn-your-next-programming-language-37p8)
 - [Is it time we quit WhatsApp?](https://dev.to/mindninjax/is-it-time-we-quit-whatsapp-4f91)
 - [Can you live without Undo & Redo?](https://dev.to/mindninjax/can-you-live-without-undo-redo-1457)
 - [4 Websites to visit in your Lunchtime | Part 4 of 4](https://dev.to/mindninjax/4-websites-to-visit-in-your-lunchtime-part-4-of-4-3p45)
-- [5 Websites to visit in your Lunchtime | Part 3 of 4](https://dev.to/mindninjax/5-websites-to-visit-in-your-lunchtime-part-3-of-4-59op)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
