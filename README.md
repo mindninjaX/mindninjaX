@@ -34,11 +34,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Acronym Generator | Beginner Python Project + source code](https://dev.to/mindninjax/acronym-generator-beginner-python-project-source-code-49h1)
 - [How to become an effective programmer?](https://dev.to/mindninjax/how-to-become-an-effective-programmer-5a00)
 - [What is the best routine for a Dev?](https://dev.to/mindninjax/what-is-the-best-routine-for-a-dev-23o2)
 - [Which are the best platforms to learn your next programming language?](https://dev.to/mindninjax/which-are-the-best-platforms-to-learn-your-next-programming-language-37p8)
 - [Is it time we quit WhatsApp?](https://dev.to/mindninjax/is-it-time-we-quit-whatsapp-4f91)
-- [Can you live without Undo & Redo?](https://dev.to/mindninjax/can-you-live-without-undo-redo-1457)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
