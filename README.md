@@ -34,11 +34,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build an Email Slicer using Python](https://dev.to/mindninjax/how-to-build-an-email-slicer-using-python-1m4m)
 - [Alarm Clock Python Project](https://dev.to/mindninjax/alarm-clock-python-project-4jn4)
 - [Acronym Generator using Python](https://dev.to/mindninjax/acronym-generator-beginner-python-project-source-code-49h1)
 - [How to become an effective programmer?](https://dev.to/mindninjax/how-to-become-an-effective-programmer-5a00)
 - [What is the best routine for a Dev?](https://dev.to/mindninjax/what-is-the-best-routine-for-a-dev-23o2)
-- [Which are the best platforms to learn your next programming language?](https://dev.to/mindninjax/which-are-the-best-platforms-to-learn-your-next-programming-language-37p8)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
