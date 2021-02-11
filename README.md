@@ -34,11 +34,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a Dice Roller in Python](https://dev.to/mindninjax/how-to-build-a-dice-roller-in-python-18j3)
 - [How to build Rock Paper Scissors Game in Python](https://dev.to/mindninjax/how-to-build-rock-paper-scissors-game-in-python-383d)
 - [How to build a Password Generator using Python](https://dev.to/mindninjax/how-to-build-a-password-generator-using-python-39gp)
 - [How to build a Random Story Generator using Python](https://dev.to/mindninjax/how-to-build-a-random-story-generator-using-python-1oah)
 - [How to build an Email Slicer using Python](https://dev.to/mindninjax/how-to-build-an-email-slicer-using-python-1m4m)
-- [Alarm Clock Python Project](https://dev.to/mindninjax/alarm-clock-python-project-4jn4)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
