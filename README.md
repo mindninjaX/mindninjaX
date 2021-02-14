@@ -34,11 +34,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to build a Quiz Game in Python](https://dev.to/mindninjax/how-to-build-a-quiz-game-in-python-10ik)
 - [How to build a QR Code Generator in Python](https://dev.to/mindninjax/how-to-build-a-qr-code-generator-in-python-1c13)
 - [How to build a Dice Roller in Python](https://dev.to/mindninjax/how-to-build-a-dice-roller-in-python-18j3)
 - [How to build Rock Paper Scissors Game in Python](https://dev.to/mindninjax/how-to-build-rock-paper-scissors-game-in-python-383d)
 - [How to build a Password Generator using Python](https://dev.to/mindninjax/how-to-build-a-password-generator-using-python-39gp)
-- [How to build a Random Story Generator using Python](https://dev.to/mindninjax/how-to-build-a-random-story-generator-using-python-1oah)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
