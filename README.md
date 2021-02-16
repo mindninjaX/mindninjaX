@@ -34,11 +34,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [We are taking the #100DaysOfCode Challenge!](https://dev.to/mindninjax/we-are-taking-the-100daysofcode-challenge-6nd)
 - [How to build a Color Text Printer in Python](https://dev.to/mindninjax/how-to-build-a-color-text-printer-in-python-3bi6)
 - [How to build a Quiz Game in Python](https://dev.to/mindninjax/how-to-build-a-quiz-game-in-python-10ik)
 - [How to build a QR Code Generator in Python](https://dev.to/mindninjax/how-to-build-a-qr-code-generator-in-python-1c13)
 - [How to build a Dice Roller in Python](https://dev.to/mindninjax/how-to-build-a-dice-roller-in-python-18j3)
-- [How to build Rock Paper Scissors Game in Python](https://dev.to/mindninjax/how-to-build-rock-paper-scissors-game-in-python-383d)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
