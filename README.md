@@ -34,11 +34,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why HTML is not a Programming Language?](https://dev.to/mindninjax/why-html-is-not-a-programming-language-2lab)
 - [Stop using var for declaring variables !!!](https://dev.to/mindninjax/stop-using-var-for-declaring-variables-2p3a)
 - [Week 1 of #100DaysOfCode Challenge | Our experience & Projects](https://dev.to/mindninjax/week-1-of-100daysofcode-challenge-our-experience-projects-24j1)
 - [How to build a Madlib Game in Python](https://dev.to/mindninjax/how-to-build-a-madlib-game-in-python-50nl)
 - [How to build a Guess the Number Game in Python](https://dev.to/mindninjax/how-to-build-a-guess-the-number-game-in-python-eff)
-- [How to build an Echo Chatbot in Python](https://dev.to/mindninjax/how-to-build-an-echo-chatbot-in-python-e9l)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
