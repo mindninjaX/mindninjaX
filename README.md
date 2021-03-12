@@ -34,7 +34,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deal with objects faster !!!](https://dev.to/mindninjax/deal-with-objects-faster-4odb)
+- [Deal with javascript objects faster !!!](https://dev.to/mindninjax/deal-with-objects-faster-4odb)
 - [Why HTML is not a Programming Language?](https://dev.to/mindninjax/why-html-is-not-a-programming-language-2lab)
 - [Stop using var for declaring variables !!!](https://dev.to/mindninjax/stop-using-var-for-declaring-variables-2p3a)
 - [Week 1 of #100DaysOfCode Challenge | Our experience & Projects](https://dev.to/mindninjax/week-1-of-100daysofcode-challenge-our-experience-projects-24j1)
