@@ -34,11 +34,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Gaming with Azure & Python](https://dev.to/mindninjax/ai-gaming-with-azure-python-4m6c)
 - [Why do you still use Sublime?](https://dev.to/mindninjax/why-do-you-still-use-sublime-1o7l)
 - [28 VS Code Extensions every Web Developer should know](https://dev.to/mindninjax/28-vs-code-extensions-every-web-developer-should-know-50gd)
 - [Deal with javascript objects faster !!!](https://dev.to/mindninjax/deal-with-objects-faster-4odb)
 - [Why HTML is not a Programming Language?](https://dev.to/mindninjax/why-html-is-not-a-programming-language-2lab)
-- [Stop using var for declaring variables !!!](https://dev.to/mindninjax/stop-using-var-for-declaring-variables-2p3a)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
