@@ -34,11 +34,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with NPM](https://dev.to/basecampxd/getting-started-with-npm-58kg)
 - [What is Complexity Analysis?](https://dev.to/basecampxd/complexity-analysis-explained-in-the-simplest-way-possible-405i)
 - [What are Data Structures?](https://dev.to/basecampxd/what-are-data-structures-ec5)
 - [AI Gaming with Azure & Python](https://dev.to/mindninjax/ai-gaming-with-azure-python-4m6c)
 - [Why do you still use Sublime?](https://dev.to/mindninjax/why-do-you-still-use-sublime-1o7l)
-- [28 VS Code Extensions every Web Developer should know](https://dev.to/mindninjax/28-vs-code-extensions-every-web-developer-should-know-50gd)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
