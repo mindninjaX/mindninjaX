@@ -34,7 +34,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with NPM](https://dev.to/basecampxd/getting-started-with-npm-58kg)
+- [Getting Started with NPM](https://dev.to/mindninjax/getting-started-with-npm-58kg)
 - [What is Complexity Analysis?](https://dev.to/basecampxd/complexity-analysis-explained-in-the-simplest-way-possible-405i)
 - [What are Data Structures?](https://dev.to/basecampxd/what-are-data-structures-ec5)
 - [AI Gaming with Azure & Python](https://dev.to/mindninjax/ai-gaming-with-azure-python-4m6c)
