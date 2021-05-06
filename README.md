@@ -34,11 +34,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [6 Movies Every Programmer Should Watch](https://dev.to/basecampxd/6-movies-every-programmer-should-watch-pj7)
 - [9 Games Every Programmer Should Play !!!](https://dev.to/basecampxd/9-games-every-programmer-should-play-fab)
 - [Getting Started with NPM](https://dev.to/basecampxd/getting-started-with-npm-58kg)
 - [What is Complexity Analysis?](https://dev.to/basecampxd/complexity-analysis-explained-in-the-simplest-way-possible-405i)
 - [What are Data Structures?](https://dev.to/basecampxd/what-are-data-structures-ec5)
-- [AI Gaming with Azure & Python](https://dev.to/mindninjax/ai-gaming-with-azure-python-4m6c)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
