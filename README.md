@@ -34,11 +34,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tiny Habits for career growth as a developer](https://dev.to/basecampxd/tiny-habits-for-career-growth-as-a-developer-3g62)
 - [MLH INIT - Calling out all the hackers 🤩 Win Swags & Stickers 🎁](https://dev.to/mindninjax/mlh-init-calling-out-all-the-hackers-win-swags-stickers-4m3e)
 - [23 useful GitHub Repos every developer should follow](https://dev.to/basecampxd/23-useful-github-repos-every-developer-should-follow-4p13)
 - [6 Movies Every Programmer Should Watch](https://dev.to/basecampxd/6-movies-every-programmer-should-watch-pj7)
 - [9 Games Every Programmer Should Play !!!](https://dev.to/basecampxd/9-games-every-programmer-should-play-fab)
-- [Getting Started with NPM](https://dev.to/basecampxd/getting-started-with-npm-58kg)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/feed/mindninjax)
