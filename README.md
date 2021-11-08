@@ -36,7 +36,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [5 Phase effective learning approach for developers](https://dev.to/basecampxd/5-phase-effective-learning-approach-for-developers-475d)
 - [Tiny Habits for career growth as a developer](https://dev.to/basecampxd/tiny-habits-for-career-growth-as-a-developer-3g62)
-- [MLH INIT - Calling out all the hackers 🤩 Win Swags & Stickers 🎁](https://dev.to/mindninjax/mlh-init-calling-out-all-the-hackers-win-swags-stickers-4m3e)
+- [MLH INIT - Calling out all the hackers 🤩 Win Swags &amp; Stickers 🎁](https://dev.to/mindninjax/mlh-init-calling-out-all-the-hackers-win-swags-stickers-4m3e)
 - [23 useful GitHub Repos every developer should follow](https://dev.to/basecampxd/23-useful-github-repos-every-developer-should-follow-4p13)
 - [6 Movies Every Programmer Should Watch](https://dev.to/basecampxd/6-movies-every-programmer-should-watch-pj7)
 <!-- BLOG-POST-LIST:END -->
