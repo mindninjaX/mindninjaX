@@ -5,8 +5,7 @@
 - 🔭 I’m [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/62034)!
 - 🌱 I’m currently learning everything 🤣
 - 👨‍💻 I’m the Founder & President of [Developer's Club](https://bit.ly/student-developers-club)
-- 🥅 2021 Goals: Dig deeper into learning advance topics
-- ⚡ Fun fact: Binod!
+- 🥅 2023 Goals: Dig deeper into learning advance topics
 
 
 <br />
