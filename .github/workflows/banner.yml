@@ -1,0 +1,77 @@
+name: Build banner
+
+# banner.svg is generated, so it should never be edited by hand and never drift from the
+# generator that claims to produce it. This rebuilds it whenever the generator or the fonts
+# change, checks the output is actually usable, and commits the result.
+on:
+  workflow_dispatch:
+  push:
+    branches: [master]
+    paths:
+      - 'assets/build-banner.mjs'
+      - 'assets/fonts/**'
+      - '.github/workflows/banner.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-banner
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      # No package.json here on purpose. The profile is a README and one generator, and a
+      # lockfile to review is a worse trade than a pinned install line.
+      - run: npm install --no-save --no-audit --no-fund opentype.js@1.3.4
+
+      - run: node assets/build-banner.mjs
+
+      # Every failure mode this generator has had produced a plausible file rather than an
+      # error: type silently set at the wrong weight, and a NaN coordinate that truncated a
+      # line mid-word. Nobody reviews their own banner weekly, so it gets asserted instead.
+      - name: Check the output
+        run: |
+          svg=assets/banner.svg
+          test -s "$svg" || { echo "banner.svg is empty"; exit 1; }
+
+          grep -q 'NaN\|Infinity\|undefined' "$svg" \
+            && { echo "invalid coordinates: an SVG parser would truncate this silently"; exit 1; }
+
+          # Two keyframe paths, and they must share a topology or the weight animation
+          # becomes a jump between unrelated shapes.
+          node -e '
+            const fs = require("fs");
+            const svg = fs.readFileSync("assets/banner.svg", "utf8");
+            const shape = (s) => (s.match(/[MLQCZ]/g) || []).join("");
+            const kf = [...svg.matchAll(/path\("([^"]*)"\)/g)].map((m) => m[1]);
+            const word = (svg.match(/class="ink word" d="([^"]*)"/) || [])[1] || "";
+            const sub = (svg.match(/class="muted sub" d="([^"]*)"/) || [])[1] || "";
+            const fail = (m) => { console.error(m); process.exit(1); };
+            if (kf.length !== 2) fail(`expected 2 keyframe paths, found ${kf.length}`);
+            if (shape(kf[0]) !== shape(kf[1])) fail("keyframe paths have different topology");
+            // DESIGN ENGINEER is 14 letters, the subline 20. Fewer means a truncated line.
+            const subpaths = (s) => (s.match(/M/g) || []).length;
+            if (subpaths(word) < 14) fail(`wordmark has only ${subpaths(word)} subpaths`);
+            if (subpaths(sub) < 20) fail(`subline has only ${subpaths(sub)} subpaths`);
+            if (!/prefers-color-scheme/.test(svg)) fail("lost dark mode");
+            if (!/prefers-reduced-motion/.test(svg)) fail("lost the motion guard");
+            console.log(`ok — wordmark ${subpaths(word)} subpaths, subline ${subpaths(sub)}, both themes, motion guarded`);
+          '
+
+      - name: Commit if it changed
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/banner.svg
+          git diff --staged --quiet && { echo "no change"; exit 0; }
+          git commit -m 'Rebuild banner'
+          git push

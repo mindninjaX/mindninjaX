@@ -1,61 +1,55 @@
-### Hi there, I'm Rishabh - aka [mindninjaX](https://bit.ly/rishabh-singh) 👋
+<a href="https://rishabh.design">
+  <img src="https://github.com/mindninjaX/mindninjaX/raw/master/assets/banner.svg" width="100%" alt="Design engineer. Every link below is live." />
+</a>
 
-## I'm a Community Leader, Blogger, Programmer & a Designer
+I design interfaces and then build them.
 
-- 🔭 I’m [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/62034)!
-- 🌱 I’m currently learning everything 🤣
-- 👨‍💻 I’m the Founder & President of [Developer's Club](https://bit.ly/student-developers-club)
-- 🥅 2023 Goals: Dig deeper into learning advance topics
+Right now I am the design engineer at [Sole](https://soleapp.com.au), an AI practice-management platform for Australian accounting firms, where the design work gets handed over as working ShadCN components instead of Figma files. Before this I was the senior product designer at Kirana Club (4M+ users) and lead product designer at [InterviewReady](https://interviewready.io) (112,000+ users). I founded [Friends of Figma Mumbai](https://friends.figma.com/mumbai/) and ran it for three years.
 
+Mumbai. Roughly four years in, engineering degree, still writing code on purpose.
 
-<br />
+> [!NOTE]
+> **Open to design engineer and senior product designer roles, remote-first.**
+> [Portfolio](https://rishabh.design) · [Resume](https://go.rishabh.design/resume) · [hey@rishabh.design](mailto:hey@rishabh.design)
 
-### Languages and Tools:
+## Recently shipped
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<!-- SHIP-LOG:START -->
+- **[upGrad, redesigned](https://mindninjax.github.io/upgrad-redesign/)** · A conversion-focused rebuild of upgrad.com across home, category and course pages. Next.js 16, React 19, Tailwind v4. The [design rationale](https://mindninjax.github.io/upgrad-rationale/) is published alongside it, including which numbers on the page are illustrative and why the palette stayed light when the obvious move was dark.
+- **[AI tells](https://mindninjax.github.io/ai-tells/)** · 103 rules for writing that does not read as machine-written, and the linter that blocks a sentence before it reaches the file.
+- **[Shelf](https://mindninjax.github.io/mac-games-shelf/)** · Every Mac game on one page: posters, ratings, how long to beat, install size.
+<!-- SHIP-LOG:END -->
 
-<br />
-<br />
+## Interface studies
 
----
+Small things, built to answer one question each.
 
-### 📕 Latest Blog Posts
+| Build | The question |
+|---|---|
+| [SplitBite](https://github.com/mindninjaX/splitbite) | Drag dishes onto friends to split a restaurant bill. |
+| [Daily Heatmap Journal](https://github.com/mindninjaX/DailyHeatmapJournal) | Native macOS in Swift. A contribution-graph heatmap over a markdown journal. |
+| [TRACKR](https://github.com/mindninjaX/album-tracker) | Letterboxd, for albums. Typography-led, no API keys. |
+| [NetTube](https://github.com/mindninjaX/NetTube) | A cinematic YouTube player with a notes sidebar at 80/20. |
+| [The Oasis](https://github.com/mindninjaX/the-oasis) | A restroom scheduler with confetti. Not every build needs a reason. |
+| [ToolDock](https://github.com/mindninjaX/tooldock) | Bookmark manager for the tools I actually reopen. |
 
-<!-- BLOG-POST-LIST:START -->
-- [5 Phase effective learning approach for developers](https://dev.to/basecampxd/5-phase-effective-learning-approach-for-developers-475d)
-- [Tiny Habits for career growth as a developer](https://dev.to/basecampxd/tiny-habits-for-career-growth-as-a-developer-3g62)
-- [MLH INIT - Calling out all the hackers 🤩 Win Swags &amp; Stickers 🎁](https://dev.to/mindninjax/mlh-init-calling-out-all-the-hackers-win-swags-stickers-4m3e)
-- [23 useful GitHub Repos every developer should follow](https://dev.to/basecampxd/23-useful-github-repos-every-developer-should-follow-4p13)
-- [6 Movies Every Programmer Should Watch](https://dev.to/basecampxd/6-movies-every-programmer-should-watch-pj7)
-<!-- BLOG-POST-LIST:END -->
+## What the design work moved
 
-➡️ [more blog posts...](https://dev.to/feed/mindninjax)
+| Where | What happened |
+|---|---|
+| Kirana Club | End-to-end purchase conversion from 1.12% to 1.71%, a 53% lift. Add-to-cart +29%, cart-to-checkout +24%. Week-10 retention 27% against 21%. 40+ features shipped solo in eight months. |
+| InterviewReady | Built the gamified practice platform from zero. It became 20% of company revenue. A design system built from scratch cut delivery time by 40%. |
+| Dolf Finance | 0-to-1 MVP for a crypto product. ₹1.65Cr pre-seed raised, about $200K, and 10,000 on the waitlist in 30 days. |
+| Hackathons | First globally at Finastra against 1,000+ teams. Wins at NYU Abu Dhabi, JPMorgan and Microsoft. |
 
----
-## Github Stats
+## Stack
 
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=mindninjaX&show_icons=true&theme=radical)
+TypeScript, React, Next.js, Tailwind, ShadCN, GSAP, Framer, Swift, Python. Figma, After Effects, Rive. Claude Code for most of the distance between an idea and a running thing.
 
-## Top Languages
+## Earlier
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mindninjaX&layout=compact&theme=radical)
-
+[Python Projects for Beginners](https://github.com/mindninjaX/Python-Projects-for-Beginners), [React Projects for Beginners](https://github.com/mindninjaX/React-Projects-for-Beginners) and [AI Chatbot](https://github.com/mindninjaX/AI-Chatbot) are teaching repos from 2021. They still pick up stars, which is a nice thing to be wrong about.
 
 ---
 
-### 🔗 Connect with me:
-
-[<img align="left" alt="surajsrv11 | DEV" width="22px" src="https://cdn.worldvectorlogo.com/logos/devto.svg" />](https://dev.to/mindninjaX)
-[<img align="left" alt="mindninjaX | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/mindninjaX)
-[<img align="left" alt="mindninjaX | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mindninjax/)
+<sub>The banner is built, not exported. [`assets/build-banner.mjs`](assets/build-banner.mjs) converts Syne to outlines and animates the wordmark along the typeface's own weight axis, which is why it grows wider as it gets heavier. One file, both GitHub themes, and it holds still if you have asked your system for less motion.</sub>
