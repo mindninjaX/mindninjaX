@@ -4,7 +4,7 @@
 
 🧑‍💻 I design interfaces and then build them.
 
-Right now I am the design engineer at [Sole](https://soleapp.com.au), an AI practice-management platform for Australian accounting firms, where the design work gets handed over as working ShadCN components instead of Figma files. Before this I was the senior product designer at Kirana Club (4M+ users) and lead product designer at [InterviewReady](https://interviewready.io) (112,000+ users). I founded [Friends of Figma Mumbai](https://friends.figma.com/mumbai/) and ran it for three years.
+Right now I am the design engineer at [Sole](https://soleapp.com.au), an AI practice-management platform for Australian accounting firms, where the design work gets handed over as working ShadCN components instead of Figma files. Before this I was the senior product designer at [Kirana Club](https://play.google.com/store/apps/details?id=club.kirana&hl=en_IN) (4M+ users) and lead product designer at [InterviewReady](https://interviewready.io) (112,000+ users). I founded [Friends of Figma Mumbai](https://friends.figma.com/mumbai/) and ran it for three years.
 
 📍 Mumbai. Roughly four years in, engineering degree, still writing code on purpose.
 
