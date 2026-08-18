@@ -2,7 +2,7 @@
   <style>
     .ink   { fill: #16181d; }
     .muted { fill: #6b7280; }
-    .mark  { fill: #F0B429; }
+    .mark  { fill: #35c220; }
     @media (prefers-color-scheme: dark) {
       .ink   { fill: #ecedef; }
       .muted { fill: #8b93a1; }

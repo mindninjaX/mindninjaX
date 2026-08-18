@@ -43,7 +43,9 @@ const PAD_BOTTOM = 30;
 const SUB_SIZE = 25;
 const SUB_GAP = 34;           // cap-height baseline to subline baseline, less the sub size
 
-const AMBER = '#F0B429';      // his accent, and it holds in both themes
+// Read off rishabh.design, where it marks the availability line. That site is otherwise
+// achromatic, so this is the whole palette, and it holds against both GitHub themes.
+const ACCENT = '#35c220';
 const WORDMARK = 'DESIGN ENGINEER';
 const SUBLINE = 'every link below is live';
 const TRACK = -1.5;           // Syne sets loose at display size
@@ -194,7 +196,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" wid
   <style>
     .ink   { fill: #16181d; }
     .muted { fill: #6b7280; }
-    .mark  { fill: ${AMBER}; }
+    .mark  { fill: ${ACCENT}; }
     @media (prefers-color-scheme: dark) {
       .ink   { fill: #ecedef; }
       .muted { fill: #8b93a1; }

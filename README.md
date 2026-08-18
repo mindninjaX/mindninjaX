@@ -14,10 +14,6 @@ Mumbai. Roughly four years in, engineering degree, still writing code on purpose
 
 ## Selected work
 
-<a href="https://mindninjax.github.io/upgrad-redesign/">
-  <img src="https://github.com/mindninjaX/mindninjaX/raw/master/assets/work/upgrad.png" width="100%" alt="upGrad, rebuilt for conversion. Next.js 16, React 19, Tailwind v4." />
-</a>
-
 <!-- Each pair sits on ONE source line. GitHub turns a single newline into a <br>, which
      breaks a side-by-side pair into a stack, and the width attributes then make it look
      like a broken grid rather than a line-break. -->
@@ -43,4 +39,4 @@ TypeScript, React, Next.js, Tailwind, ShadCN, GSAP, Framer, Swift, Python. Figma
 
 ---
 
-<sub>The banner is built, not exported. [`assets/build-banner.mjs`](assets/build-banner.mjs) converts Syne to outlines and animates the wordmark along the typeface's own weight axis, which is why it grows wider as it gets heavier. One file, both GitHub themes, and it holds still if you have asked your system for less motion. The cards are laid out in HTML and rendered at 2x by [`preview/cards.mjs`](assets/work); they carry their own dark surface because a PNG cannot answer `prefers-color-scheme` and a borrowed background would be wrong in one of the two themes.</sub>
+<sub>The banner is built, not exported. [`assets/build-banner.mjs`](assets/build-banner.mjs) converts Syne to outlines and animates the wordmark along the typeface's own weight axis, which is why it grows wider as it gets heavier. One file, both GitHub themes, and it holds still if you have asked your system for less motion. The cards are laid out in HTML and rendered at 2x; type and palette are the ones from [rishabh.design](https://rishabh.design), and each card owns its surface because a PNG cannot answer `prefers-color-scheme`.</sub>
