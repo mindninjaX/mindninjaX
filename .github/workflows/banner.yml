@@ -31,7 +31,13 @@ jobs:
 
       # No package.json here on purpose. The profile is a README and one generator, and a
       # lockfile to review is a worse trade than a pinned install line.
-      - run: npm install --no-save --no-audit --no-fund opentype.js@1.3.4
+      #
+      # The version is load-bearing and must match what the generator was built against.
+      # This said 1.3.4 on the first push and the run failed instantly: 1.3.4 has no
+      # `font.variation` at all, so the whole variable-weight mechanism is absent, and its
+      # parse() wants an ArrayBuffer rather than a Buffer. The number had been written from
+      # memory instead of read off the installed package.
+      - run: npm install --no-save --no-audit --no-fund opentype.js@2.0.0
 
       - run: node assets/build-banner.mjs
 
